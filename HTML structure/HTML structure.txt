@@ -1,0 +1,6 @@
+<root>
+	<header></header>
+	<hero>
+		<card></card>
+	</hero>
+</root>
